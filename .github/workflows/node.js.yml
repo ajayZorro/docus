@@ -18,7 +18,7 @@ jobs:
 
     steps:
     - uses: actions/checkout@v2
-    - uses: ajayZorro/gha-git-credentials@v2.1
+    - uses: ajayZorro/docus@v1
       with:
         global: true
         name: 'ajayZorro'
